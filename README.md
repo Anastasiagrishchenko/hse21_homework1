@@ -1,7 +1,6 @@
 # hse21_homework1
 
 mkdir hm1
-
 cd hm1
 
 ln -s /usr/share/data-minor-bioinf/assembly/oil_R1.fastq
