@@ -13,6 +13,7 @@ ln -s /usr/share/data-minor-bioinf/assembly/oilMP_S4_L001_R1_001.fastq
 ln -s /usr/share/data-minor-bioinf/assembly/oilMP_S4_L001_R2_001.fastq
 
 
+
 seqtk sample -s602 oil_R1.fastq 5000000 > sub1.fq
 
 seqtk sample -s602 oil_R2.fastq 5000000 > sub2.fq
